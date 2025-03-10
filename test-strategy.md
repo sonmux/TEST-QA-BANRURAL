@@ -47,22 +47,22 @@ Realizar pruebas funcionales y correcciones al juego "Adivina tu número" para g
 ## Plan de Pruebas
 
 > [!IMPORTANT]
-> Prueba de generación del número aleatorio
-> Verificar que el número generado está entre 1 y 100.
+> - Prueba de generación del número aleatorio
+> - Verificar que el número generado está entre 1 y 100.
 
 > [!IMPORTANT]
-> Prueba de validación de entrada
-> Ingresar valores no numéricos y verificar que no se incrementen intentos.
-> Ingresar valores fuera del rango permitido y validar la alerta.
+> - Prueba de validación de entrada
+> - Ingresar valores no numéricos y verificar que no se incrementen intentos.
+> - Ingresar valores fuera del rango permitido y validar la alerta.
 
 > [!IMPORTANT]
-> Prueba de comparación de números
-> Ingresar valores mayores y menores al número objetivo y validar los mensajes correctos.
+> - Prueba de comparación de números
+> - Ingresar valores mayores y menores al número objetivo y validar los mensajes correctos.
 
 > [!IMPORTANT]
-> Prueba de intentos máximos
-> Verificar que el juego finaliza correctamente tras 10 intentos fallidos.
+> - Prueba de intentos máximos
+> - Verificar que el juego finaliza correctamente tras 10 intentos fallidos.
 
 > [!IMPORTANT]
-> Prueba de reinicio del juego
-> Validar que tras reiniciar se genera un nuevo número y los intentos se reinician.
+> - Prueba de reinicio del juego
+> - Validar que tras reiniciar se genera un nuevo número y los intentos se reinician.
